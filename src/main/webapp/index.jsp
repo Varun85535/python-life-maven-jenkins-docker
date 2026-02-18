@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>PYTHONLIFE-DEVOPS</title>
+  <title>PYTHONLIFE-DEOPS</title>
   <style>
     body {
       font-family: Arial, sans-serif;
