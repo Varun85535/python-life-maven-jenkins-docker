@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>DEVOPS-DEOPS</title>
+  <title>DEVOPS-COURSE</title>
   <style>
     body {
       font-family: Arial, sans-serif;
