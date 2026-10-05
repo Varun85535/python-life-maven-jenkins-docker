@@ -65,7 +65,7 @@
   <marquee behavior="scroll" direction="left" style="background-color: #e74c3c; color: white; padding: 10px;">
    LEARN. AND LEAD PYTHONLIFE-DEVOPS, we don't just teach skills, we ignite careers. Join us and discover the limitless opportunities awaiting you in the world of Python and DevOps - Welcome to PYTHONLIFE-DEVOPS - Your gateway to Python and DevOps expertise!
   </marquee>
-  <h1>Welcome to <span style="color: #ff5733;">PL-DEVOPS</span></h1>
+  <h1>Welcome to <span style="color: #ff5733;">VARUN KV</span></h1>
   <a href="#" onclick="toggleCourseDetails()">Click Here To Display Pythonlife Training Schedules</a>
   <div class="course-details" id="courseDetails" style="display: none;">
     <h2>Course Details:</h2>
